@@ -1,5 +1,7 @@
 # Ubuntu settings
 
+→→→ 多分古い
+
 # Execution
 Download repository:
 ```sh
